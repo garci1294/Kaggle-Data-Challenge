@@ -1,6 +1,4 @@
-# CSCI 5461 Project: Human Gene Function Prediction Challenge
-
-Collaboraters: Shrijana Gurung and Jesus Garcia Garcia
+Human Gene Function Prediction Challenge
 
 # Goal
 To identify a supervised learning approach that utilizes gene dependency data from genome-wide CRISPR-Cas9 screens to predict human gene function. This is a multi-class classification problem.
